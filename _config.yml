@@ -5,7 +5,7 @@ title: "GitWiki"
 # with your folder name, otherwise leave it empty
 baseurl: "/git-wiki-skeleton"
 # (string) Description of your wiki
-description: "This is just a Wiki that will hopefully be useful to me and maybe some other people.
+description: "This is just a Wiki that will hopefully be useful to me and maybe some other people."
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
